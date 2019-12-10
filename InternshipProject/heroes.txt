@@ -1,0 +1,10 @@
+Superman|strength,flight,laser|5
+Dr. Manhattan|strength,intel|5
+Batman|gadget,flight|3
+Captain America|strength,national|4
+Cyclops|laser|3
+Iron Man|intel,gadget,flight|3
+Thor|strength|4
+Wonder Woman|strength,flight|4
+Devil Dinosaur|strength,intel|5
+Squirrel Girl|strength,squirrel-talk|3
